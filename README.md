@@ -1,5 +1,5 @@
 # Selfbot-Bypass
-- A simple way to read `message.content` after the "patch".
+- A simple way to read `message.content` after the patch.
 ```py
 @Bot.event
 async def on_message(Content):
