@@ -8,7 +8,6 @@ async def on_message(Content):
 ```
 
 # Example Code
-- Found [here](https://github.com/Niz2y/Selfbot-Bypass/blob/main/Example.py).
 ```py
 import discord
 from discord.ext import commands
