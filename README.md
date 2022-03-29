@@ -7,5 +7,5 @@ async def on_message(Content):
     await Bot.process_commands(Message)
 ```
 
-#Example Code
+# Example Code
 - Found [here](https://github.com/Niz2y/Selfbot-Bypass/blob/main/Example.py).
